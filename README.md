@@ -39,7 +39,6 @@ The game stops automatically once the result is decided.
 | 0  | 1   | 2  |
 | -- | --- | -- |
 | 3  | 4   | 5  |
-| -- | --- | -- |
 | 6  | 7   | 8  |
 
 ## Game Rules
@@ -52,9 +51,4 @@ The game stops automatically once the result is decided.
 
 * main.py – Contains the complete game logic
 
----
-Thank you for checking out this project 🙂
-
-
-Just say the word 😊
-
+Thank you for checking out this project !!
